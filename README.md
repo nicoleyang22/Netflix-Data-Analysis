@@ -3,6 +3,9 @@
  📌 Project Overview
 This project analyzes 1990s action movies to examine trends in film duration and their potential impact on the film industry. By filtering movies from this decade and categorizing them based on runtime, we aim to understand how short action films (under 90 minutes) compare to feature-length films in terms of prevalence and potential business implications.
 
+![image](https://github.com/user-attachments/assets/381299e6-ab65-4886-934b-30488d15633e)
+
+
 🔍 Analysis Summary
 We extracted action movies from the 1990s and counted the number of short action films (runtime < 90 minutes).
 
